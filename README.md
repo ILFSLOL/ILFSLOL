@@ -1,8 +1,5 @@
 Hi there. 👋
-- I'm currently working on some cool things. ;)
-- I’m currently learning Python and AutoHotKey
-- I’m looking to collaborate on gaming  utility code.
-- How to reach me? You can Reach me on IG @ILFSLOL
+You can Reach me on Discord @ILFSLOL
 
 <!---
 ILFSLOL/ILFSLOL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

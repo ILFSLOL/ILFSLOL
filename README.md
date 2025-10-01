@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="150" src="https://tenor.com/en-GB/view/lain-lain-ps1-gif-16970614288742356917"  />
+  <img height="150" src="https://github.com/user-attachments/assets/427965bc-2367-47cc-9dd5-89bad69f2bfd"  />
 </div>
+
 
 ###
 

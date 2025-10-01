@@ -1,5 +1,6 @@
-
-![lain-lain-ps1](https://github.com/user-attachments/assets/fd3c5c4f-a157-4076-950a-97aa355ec06b)
+<div align="center">
+  <img height="150" src="./assets/lain-lain-ps1-ezgif.com-optimize.gif" />
+</div>
 
 ###
 

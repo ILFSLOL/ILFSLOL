@@ -1,5 +1,5 @@
 
-"https://github.com/user-attachments/assets/b48422cd-fca9-47c0-9489-00b7cf45fbe5"  />
+![lain-lain-ps1](https://github.com/user-attachments/assets/fd3c5c4f-a157-4076-950a-97aa355ec06b)
 
 ###
 
